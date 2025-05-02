@@ -79,7 +79,7 @@ section {
   padding: 0 9%;
   min-height: 100vh;
   position: relative;
-  background: url("img/yo.jpg") no-repeat center center;
+  background: url("./yo.jpg") no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
   overflow: hidden;
